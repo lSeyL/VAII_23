@@ -15,3 +15,7 @@
     <img src="react\src\assets\react.svg" height="100" alt="React">
   </a>
 </p>
+
+<p align="center">
+VAII 2023
+</p>
